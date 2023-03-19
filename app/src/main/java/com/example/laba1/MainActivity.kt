@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
-    val monkey = Animal("Чіпсик", "5", "Любить їсти банани")
+    val monkey = Animal("Чіпсик", "6", "Любить їсти банани")
     val parrot = Animal("Джонік", "12", "Любить літати і рунувати свою клітку")
     val spider = Animal("Павук", "4", "Павук")
 
